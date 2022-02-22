@@ -7,4 +7,5 @@ Having a growth mindset means blah blah blah.
 - And this.
 - And this.
 
-### What does this do?
+Utilize at least 5 different features of Markdown to structure your page.
+Introduce yourself and include link to Github portfolio page.
