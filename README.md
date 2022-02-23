@@ -7,10 +7,10 @@ Having a growth mindset means thinking rationally in the face of an obstacle, ra
 - Take a break
   - Stretch
   - Hydrate
-- Don't let perfect be the enemy of good.
-- It's *fine,* go to bed!
+- Take the dog out
+- Go to bed
 
 ### Check me out:
-Head over to my [portfolio page](http://www.github.com/egbeale) and guess how much ~time I spent~ fun I had making this **very cool graphic.**
+Head over to my [portfolio page](http://www.github.com/egbeale)
 
 ### Thanks for visiting
