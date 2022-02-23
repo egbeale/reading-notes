@@ -1,7 +1,7 @@
 # My Learning Journal
 
 ## Growth Mindset
-Having a growth mindset means thinking rationally in the face of an obstacle, rather than letting our insecurities guide our behavior. For example, the fear of making mistakes can block our chances for improvement. Under a growth mindset, mistakes are not seen as learning opportunities, not character flaws.
+Having a growth mindset means thinking rationally in the face of an obstacle, rather than letting our insecurities guide our behavior. For example, the fear of making mistakes can block our chances for improvement. Under a growth mindset, mistakes are seen as learning opportunities, not character flaws.
 
 - Take a break
   - Stretch
