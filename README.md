@@ -7,13 +7,13 @@ Hello! Wow I'm late to this GitHub party... but I'm finally friends with my term
 
 ## Table of Contents
 
-- [Growth Mindset](growthmindset.md) 
+- [Growth Mindset](growthmindset.md)
 - [Class 01 Learning Markdown](01-learning-markdown.md)
 - [Class 02 - The Coder's Computer](02-coder-computer)]
 
-[]
+
 
 
 ### Check me out on GitHub
 
-link to porfolio page
+Head over to my [portfolio page](https://github.com/egbeale)
