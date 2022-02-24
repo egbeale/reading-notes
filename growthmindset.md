@@ -5,7 +5,4 @@ Having a growth mindset means thinking rationally in the face of an obstacle, ra
 ## Tips for maintaining a growth mindset: 
 - Take a break: stand up, stretch, hydrate.
 - Don't let perfect be the enemy of good
-- Stop obsessing and just go to bed!
-
-# Check me out:
-Head over to my [portfolio page](http://www.github.com/egbeale).
+- Stop obsessing and just go to bed
