@@ -8,6 +8,3 @@
 
 <br>
 
- made a line break
-
-One star *italicizes*

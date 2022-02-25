@@ -9,10 +9,12 @@ Hello! Wow I'm late to this GitHub party... but I'm finally friends with my term
 
 - [Growth Mindset](growthmindset.md)
 - [Class 01 Learning Markdown](01-learning-markdown.md)
-- [Class 02 - The Coder's Computer](02-coder-computer)]
-
-
-
+- [Class 02 - The Coder's Computer](02-coder-computer)
+- [Class 03 - Revisions and the Cloud](03-revisions-cloud.md)
+- [Class 04 - HTML](04-html.md)
+- [Class 05 - CSS](05-CSS-design.md)
+- [Class 06 -- Javascript](06-dynamic-webpages-javascript.md)
+- [Class 07 - Programing with Javascript](07-javascript-programming.md)
 
 ### Check me out on GitHub
 
