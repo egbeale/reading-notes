@@ -10,7 +10,7 @@
 > ACP
 >
 > - git add README.md
->    - git add code .
+>   - git add code .
 > - git commit -m "add message"
 > - git push origin main
 
