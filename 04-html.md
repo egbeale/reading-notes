@@ -11,9 +11,7 @@ HTML uses "markup" to annotate text, images, and other content for display in a 
 
 - Tags begin or end an element in source code, whereas elements are part of the DOM, the document model for displaying the page in the browser.
 
-
-
-- The opening tag: 
+- The opening tag:
     - This consists of the name of the element (in this case, p), wrapped in opening and closing angle brackets. This states where the element begins or starts to take effect — in this case where the paragraph begins.
 
 - The closing tag: 

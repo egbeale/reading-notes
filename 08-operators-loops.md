@@ -36,7 +36,7 @@ for (let i = 0; i < 10; i = i++)
 - initializer statement, sets countervariable to specific number.
 
     -i is countervariable / index / iterator.
-    
+
 i" < 10" is conditional statement
 
     - tells for loop how many times to run. e.g. While incrementer / counter / index is less than 10, this for loop will keep running.
@@ -56,5 +56,3 @@ then, define a code block. bc while i is less than 10, we need to run code.
 
 for (let i = 0; i < 10; i++) {
     console.log(i);
-    
-}
