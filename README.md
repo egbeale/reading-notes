@@ -14,6 +14,7 @@ Hello! Wow I'm late to this GitHub party... but I'm finally friends with my term
 - [Class 05 - CSS](05-CSS-design.md)
 - [Class 06 -- Javascript](06-dynamic-webpages-javascript.md)
 - [Class 07 - Programing with Javascript](07-javascript-programming.md)
+- [Class 08 - Operators and Loops](08-operators-loops)
 
 ### Check me out on GitHub
 
