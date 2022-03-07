@@ -23,11 +23,11 @@ To create a heading, add number signs (#) in front of a word or phrase. The numb
 
 ## Bold
 
-- To bold text, add two asterisks or underscores before and after a word or phrase. To bold the middle of a word for emphasis, add two asterisks without spaces around the letters.
+- add two asterisks or underscores before and after word/phrase.
 
 ## Italic
 
-- To italicize text, add one asterisk or underscore before and after a word or phrase. To italicize the middle of a word for emphasis, add one asterisk without spaces around the letters.
+- add one asterisk or underscore before and after word
 
 ---
 
