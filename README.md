@@ -11,7 +11,7 @@ Hello! I'm studying software development at Code Fellows, and these are my daily
 - [01 - Introductory HTML and Javascript](201.01.md)
 - [02 - Basics of HTML, CSS, JS](201.02.md)
 - [03 - HTML Lists / CSS Boxes / JS Control Flow](201.03.md)
-- [04 - HTML Links / CSS Layout / JS Functions](204.04.md)
+- [04 - HTML Links / CSS Layout / JS Functions](201.04.md)
 - [05 - HTML Images / CSS Color & Text](201.05.md)
 - [06 - JS Object Literals: The DOM](201.06.md)
 - [07 - HTML Tables / JS Constructor Functions](201.07.md)
