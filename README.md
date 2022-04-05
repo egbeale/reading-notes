@@ -6,7 +6,9 @@ Hello! I'm studying software development at Code Fellows, and these are my daily
 
 # Table of Contents
 
-## Code 201 Reading Notes
+Notes for each day of class. Bird by bird.
+
+## Code 201:
 
 - [01 - Introductory HTML and Javascript](Code_201/201.01.md)
 - [02 - Basics of HTML, CSS, JS](Code_201/201.02.md)
@@ -24,7 +26,7 @@ Hello! I'm studying software development at Code Fellows, and these are my daily
 - [14 - CSS Transforms, Transitions, Animations](201.14.md)
 - [14b - What Google Learned About Teams](201.14b.md)
 
-## Code 102 Reading Notes
+## Code 102:
 
 - [Growth Mindset](Code_102/growthmindset.md)
 - [Class 01 Learning Markdown](Code_102/01-learning-markdown.md)
@@ -35,7 +37,3 @@ Hello! I'm studying software development at Code Fellows, and these are my daily
 - [Class 06 -- Javascript](Code_102/06-dynamic-webpages-javascript.md)
 - [Class 07 - Programing with Javascript](Code_102/07-javascript-programming.md)
 - [Class 08 - Operators and Loops](Code_102/08-operators-loops)
-
-### Check me out on GitHub
-
-Head over to my [portfolio page](https://github.com/egbeale)
