@@ -1,14 +1,26 @@
 # My Learning Journal
 
-## About me
+Hello! I'm an aspiring software developer and student at Code Fellows in Seattle. These are my daily my reading and lecture notes.
 
-Hello! I'm studying software development at Code Fellows, and these are my daily my reading notes. I'm currently in the process of switching careers, and it's becoming more evident that being a developer fits perfectly into my interests and skill set: I enjoy anything that involves logical problem-solving, and I also have an eye for making things look nice. 
+## Code 301: Intermediate Software Development
 
-# Table of Contents
+- [01 - Introduction to React and Components](Code_301/301.01.md)
+- [02 - State and Props](Code_301/301.02.md)
+- [03 - Passing Functions as Props](Code_301/301.03.md)
+- [04 - React and Forms](Code_301/301.04.md)
+- [05 - Putting It All Together](Code_301/301.05.md)
+- [06 - Asynchronous Code and Third Party APIs](Code_301/301.06.md)
+- [07 - Express Servers](Code_301/301.07.md)
+- [08 - APIs](Code_301/301.08.md)
+- [09 - Modularization, Refactoring](Code_301/301.09.md)
+- [10 - Persistence](Code_301/301.10.md)
+- [11 - Mongo, Mongoose, Data Modeling](Code_301/301.11.md)
+- [12 - Creating and Deleting Resources](Code_301/301.12.md)
+- [13 - Updating Resources](Code_301/301.13.md)
+- [14 - Diversity, Equity, Inclusion in Tech](Code_301/301.14.md)
+- [15 - Authentication](Code_301/301.15.md)
 
-Notes for each day of class. Bird by bird.
-
-## Code 201:
+## Code 201: Foundations of Software Development
 
 - [01 - Introductory HTML and Javascript](Code_201/201.01.md)
 - [02 - Basics of HTML, CSS, JS](Code_201/201.02.md)
@@ -26,9 +38,8 @@ Notes for each day of class. Bird by bird.
 - [14 - CSS Transforms, Transitions, Animations](201.14.md)
 - [14b - What Google Learned About Teams](201.14b.md)
 
-## Code 102:
+## Code 102: Intro to Software Development
 
-- [Growth Mindset](Code_102/growthmindset.md)
 - [Class 01 Learning Markdown](Code_102/01-learning-markdown.md)
 - [Class 02 - The Coder's Computer](Code_102/02-coder-computer)
 - [Class 03 - Revisions and the Cloud](Code_102/03-revisions-cloud.md)
@@ -37,3 +48,4 @@ Notes for each day of class. Bird by bird.
 - [Class 06 -- Javascript](Code_102/06-dynamic-webpages-javascript.md)
 - [Class 07 - Programing with Javascript](Code_102/07-javascript-programming.md)
 - [Class 08 - Operators and Loops](Code_102/08-operators-loops)
+- [Growth Mindset](Code_102/growthmindset.md)
