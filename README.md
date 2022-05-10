@@ -1,7 +1,9 @@
 # My Learning Journal
 
 
-Hello! I'm an aspiring software developer and student at Code Fellows in Seattle. These are my daily my reading and lecture notes. ![PatTheCat](https://user-images.githubusercontent.com/100111219/167727052-60656178-f849-4b80-af92-60afc4f61875.png)
+Hello! I'm an aspiring software developer and student at Code Fellows in Seattle. These are my daily my reading and lecture notes.
+
+![PatTheCat](https://user-images.githubusercontent.com/100111219/167727530-f5e368ea-bc9c-4b19-8a1a-0faf4cfe098f.png)
 
 ## Code 301: Intermediate Software Development
 
