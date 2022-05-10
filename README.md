@@ -3,7 +3,7 @@
 
 Hello! I'm an aspiring software developer and student at Code Fellows in Seattle. These are my daily my reading and lecture notes.
 
-![PatTheCat](https://user-images.githubusercontent.com/100111219/167727530-f5e368ea-bc9c-4b19-8a1a-0faf4cfe098f.png)
+![PatTheCat](https://user-images.githubusercontent.com/100111219/167727776-088834dd-91fb-4cb9-bcc6-c681f5d572b9.png)
 
 ## Code 301: Intermediate Software Development
 
