@@ -19,7 +19,7 @@ To see more of my class projects, check out [my repo page](https://github.com/eg
 - [09 - Modularization, Refactoring](Code_301/301.09.md)
 - [10 - Persistence](Code_301/301.10.md)
 - [11 - Mongo, Mongoose, Data Modeling](Code_301/301.11.md)
-- [12 - Creating and Deleting Resources](Code_301/301.12.md)
+- [12 - CRUD - Creating and Deleting Resources](Code_301/301.12.md)
 - [13 - Updating Resources](Code_301/301.13.md)
 - [14 - Diversity, Equity, Inclusion in Tech](Code_301/301.14.md)
 - [15 - Authentication](Code_301/301.15.md)
