@@ -1,13 +1,14 @@
-# My Learning Journal
+# <center> My Learning Journal</center>
 
-**Hello!** I'm Elizabeth, a software development student at Code Fellows in Seattle. These are my daily my reading and lecture notes.
-
-To see more of my class projects, check out [my repo page](https://github.com/egbeale?tab=repositories).
+**Hello!** I'm Elizabeth, a software development student at Code Fellows in Seattle. These are my daily reading notes.
 
 -----
 
 ## Code 301: *Intermediate Software Development*
 
+- Prep Work
+  - [Arrow Functions](301.arrow.md)
+  - [ES6 Classes](301.classes.md)
 - [01 - Introduction to React and Components](Code_301/301.01.md)
 - [02 - State and Props](Code_301/301.02.md)
 - [03 - Passing Functions as Props](Code_301/301.03.md)
@@ -55,5 +56,6 @@ To see more of my class projects, check out [my repo page](https://github.com/eg
 - [Growth Mindset](Code_102/growthmindset.md)
 
 -----
-Pat the Cat says
-![PatTheCat](https://user-images.githubusercontent.com/100111219/167727776-088834dd-91fb-4cb9-bcc6-c681f5d572b9.png) study hard!
+
+![PatTheCat](https://user-images.githubusercontent.com/100111219/167727776-088834dd-91fb-4cb9-bcc6-c681f5d572b9.png)
+<sub> Pat the Cat says study hard! </sub>
