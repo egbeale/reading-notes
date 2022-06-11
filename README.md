@@ -1,4 +1,4 @@
-# <center> My Learning Journal</center>
+# <center> Reading Notes</center>
 
 **Hello!** I'm Elizabeth, a software development student at Code Fellows in Seattle. These are my daily reading notes.
 
