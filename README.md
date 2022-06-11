@@ -7,8 +7,8 @@
 ## Code 301: *Intermediate Software Development*
 
 - Prep Work
-  - [Arrow Functions](301.arrow.md)
-  - [ES6 Classes](301.classes.md)
+  - [Arrow Functions](Code_301/301.arrow.md)
+  - [ES6 Classes](Code_301/301.classes.md)
 - [01 - Introduction to React and Components](Code_301/301.01.md)
 - [02 - State and Props](Code_301/301.02.md)
 - [03 - Passing Functions as Props](Code_301/301.03.md)
